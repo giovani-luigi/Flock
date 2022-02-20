@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flock.Core", "Flock.Core\Flock.Core.csproj", "{F48C7887-8D7A-4C66-A41D-D5A8594C303E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flock.Core.Tests", "Flock.Core.Tests\Flock.Core.Tests.csproj", "{14933318-7290-4BB3-B96D-4643CF3B2329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F48C7887-8D7A-4C66-A41D-D5A8594C303E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48C7887-8D7A-4C66-A41D-D5A8594C303E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48C7887-8D7A-4C66-A41D-D5A8594C303E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48C7887-8D7A-4C66-A41D-D5A8594C303E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14933318-7290-4BB3-B96D-4643CF3B2329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14933318-7290-4BB3-B96D-4643CF3B2329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14933318-7290-4BB3-B96D-4643CF3B2329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14933318-7290-4BB3-B96D-4643CF3B2329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EC040CD-1433-4DCC-AB81-9CB19406C18E}
+	EndGlobalSection
+EndGlobal
